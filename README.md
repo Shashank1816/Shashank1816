@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shashankverma1816)
 
-- 📫 Reach me at **shashankverma1816@gmail.com**
+- 📫 Reach me @ **shashankverma1816@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1HrUMIdiW0iikoWC30UckDD2AnR8wWniV/view?usp=sharing)🧐
 
