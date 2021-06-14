@@ -2,7 +2,7 @@
 <h3 align="center"><img src="https://github.com/Shashank1816/Shashank1816/blob/main/giphy.gif" alt="gif"></h3>
 <h3 align="center">A budding Web developer or a Data Scientist...maybe!! 🤔😂</h3>
 
-- 👯 I’m looking to collaborate on **any good idea that requires my help 😀**
+- 👯 I’m looking to collaborate on **any good idea that requires my help 😀💡**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shashankverma1816)
 
